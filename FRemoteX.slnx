@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Application/Application.vcxproj" />
+  <Project Path="FRmtXMonitorDrv/FRmtXMonitorDrv.vcxproj">
+    <Deploy />
+  </Project>
+</Solution>
